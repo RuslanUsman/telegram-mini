@@ -10,10 +10,10 @@ function MaterialSelection() {
   };
 
   const materials = [
-    { name: 'Материал 1', image: '/images/material1.png' },
-    { name: 'Материал 2', image: '/images/material2.png' },
-    { name: 'Материал 3', image: '/images/material3.png' },
-    { name: 'Материал 4', image: '/images/material4.png' }
+    { name: 'Материал 1', image: './images/tnt.png' },
+    { name: 'Материал 2', image: './images/tnt.png' },
+    { name: 'Материал 3', image: './images/tnt.png' },
+    { name: 'Материал 4', image: './images/tnt.png' }
   ];
 
   return (

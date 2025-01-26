@@ -10,10 +10,10 @@ function ConstructionSelection() {
   };
 
   const constructions = [
-    { name: 'Конструкция 1', image: '/images/construction1.png' },
-    { name: 'Конструкция 2', image: '/images/construction2.png' },
-    { name: 'Конструкция 3', image: '/images/construction3.png' },
-    { name: 'Конструкция 4', image: '/images/construction4.png' }
+    { name: 'Конструкция 1', image: './images/tnt.png' },
+    { name: 'Конструкция 2', image: './images/tnt.png' },
+    { name: 'Конструкция 3', image: './images/tnt.png' },
+    { name: 'Конструкция 4', image: './images/tnt.png' }
   ];
 
   return (
